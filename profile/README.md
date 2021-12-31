@@ -1,5 +1,5 @@
 <div align="center">
   <p>
-    <img src="https://i.imgur.com/vOQfUnp.png" alt="ntmdev banner" /></a>
+    <a href="https://dev.ntmcentral.xyz/"><img src="https://i.imgur.com/vOQfUnp.png" alt="ntmdev banner" /></a>
   </p>
 </div>
